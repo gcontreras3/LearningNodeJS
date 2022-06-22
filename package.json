@@ -1,0 +1,25 @@
+{
+  "name": "learningnodejs",
+  "version": "1.0.0",
+  "description": "Node Crash course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gcontreras3/LearningNodeJS.git"
+  },
+  "author": "Gerardo Contreras",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gcontreras3/LearningNodeJS/issues"
+  },
+  "homepage": "https://github.com/gcontreras3/LearningNodeJS#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
